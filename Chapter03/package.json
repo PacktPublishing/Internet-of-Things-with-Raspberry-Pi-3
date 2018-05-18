@@ -1,0 +1,26 @@
+{
+  "name": "httpserver",
+  "version": "1.0.0",
+  "description": "API testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maneesh",
+  "license": "ISC",
+  "dependencies": {
+    "collections": "^5.1.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "fs-extra": "^5.0.0",
+    "moment": "^2.20.1",
+    "mysql": "^2.15.0",
+    "mysql-promise": "^4.1.0",
+    "mysql2": "^1.5.2",
+    "node-datetime": "^2.0.6",
+    "promise": "^8.0.1",
+    "promise-mysql": "^3.2.1",
+    "sequelize": "^4.33.4",
+    "timediff": "^1.1.1"
+  }
+}
